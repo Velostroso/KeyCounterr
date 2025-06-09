@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: KeyCounter
+Created-By: 23.0.2 (Oracle Corporation)
+
